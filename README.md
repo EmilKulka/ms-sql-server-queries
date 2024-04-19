@@ -1,3 +1,4 @@
+![Diagram bazy danych dla poniższych zadań](Diagram.png)
 ## PROJECTION, SELECTION, SORTING
 ```sql
 --1.01
